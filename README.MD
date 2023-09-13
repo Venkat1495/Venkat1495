@@ -1,6 +1,6 @@
 # Hi, I'm Venkat Jawahar Reddy Yerrabathini!
 
-<p><em>MSCS grad student @ Cal State Fullerton | Looking for Spring 2024 internship opportunities | Data Scientist</em></p>
+<p><em>MSCS grad student @ Cal State Fullerton | Machine Learning Enthusiast | Data Science Enabler | Quality Engineer</em></p>
 
 [![Linkedin: Venkat](https://img.shields.io/badge/-Venkat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-jawahar-reddy/)](https://www.linkedin.com/in/venkat-jawahar-reddy/)
 
