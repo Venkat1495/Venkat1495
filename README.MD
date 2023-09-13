@@ -7,15 +7,22 @@
 ```javascript
 const JawaharReddy = {
     pronouns: "He" | "Him",
-    code: ["Python", "R"],
-    askMeAbout: ["data science", "machine learning", "data analysis"],
+    code: ["Python", "Java", "Kotlin", "JavaScript", "SQL"],
+    askMeAbout: ["Data Science", "Machine Learning", "Data Analysis"],
     technologies: {
         dataScience: {
-            python: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "TensorFlow", "PyTorch"],
-            r: ["ggplot2", "dplyr", "caret"]
+            python: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "TensorFlow", "PyTorch", "NLTK", "spaCy", "fast.ai"],
         },
-        databases: ["MySQL", "SQLite"],
-        misc: ["Jupyter Notebook", "Data Visualization", "Statistical Analysis"]
+        databases: ["SQL", "Cassandra"],
+        bigData: ["Apache Spark"],
+        deepLearning: ["TensorFlow", "PyTorch"],
+        nlp: ["NLTK", "spaCy"],
+        dataAnalysis: ["Pandas", "NumPy"],
+        dataVisualization: ["Matplotlib", "Seaborn"],
+        versionControl: ["Git", "GitHub"],
+        toolsPlatforms: ["Jupyter Notebook", "Google Colab", "Docker", "Azure CI/CD", "Jira"],
+        mlModelEvaluation: ["TensorBoard", "Gensim"],
+        webScraping: ["Selenium"],
     },
     currentFocus: "Data Science and Machine Learning",
 };
