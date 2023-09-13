@@ -2,12 +2,10 @@
 
 <p><em>MSCS grad student @ Cal State Fullerton | Looking for Spring 2024 internship opportunities | Data Scientist</em></p>
 
-[![Linkedin: Naveen](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-golla-ba89a2143/)](https://www.linkedin.com/in/naveen-golla-ba89a2143/)
-![GitHub followers](https://img.shields.io/github/followers/Naveen-Golla123?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Naveen-Golla123.Naveen-Golla123)
+[![Linkedin: Naveen](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-golla-ba89a2143/)](https://www.linkedin.com/in/venkat-jawahar-reddy/)
 
 ```javascript
-const naveenGolla = {
+const VenkatYerra = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "Kotlin", "C++", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev"],
