@@ -2,7 +2,7 @@
 
 <p><em>MSCS grad student @ Cal State Fullerton | Looking for Spring 2024 internship opportunities | Data Scientist</em></p>
 
-[![Linkedin: Venkat](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-jawahar-reddy/)](https://www.linkedin.com/in/venkat-jawahar-reddy/)
+[![Linkedin: Venkat](https://img.shields.io/badge/-Venkat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venkat-jawahar-reddy/)](https://www.linkedin.com/in/venkat-jawahar-reddy/)
 
 ```javascript
 const VenkatYerra = {
